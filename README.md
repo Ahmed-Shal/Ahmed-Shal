@@ -1,23 +1,10 @@
 # Hi there, I'm Ahmed Shal 👋
 
-- Software Developer
+- Software Engineer
 - Software Instructor
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
-
-## 🌱 Learning & Development
-I'm currently learning and improving my skills in:
-- Advanced Flutter technologies
-- CI/CD practices
-- System Design
-- Machine Learning and AI
-
-
-## 💬 Ask Me About
-- Mobile App Development (Flutter, Android)
-- Web Development (Flutter web)
-- API Integration
-
+Welcome to my GitHub profile! 
+As a software Engineer, I constantly seek new challenges and have a deep passion for designing and developing innovative software solutions that improve processes and meet user needs. My passion lies in finding creative solutions to complex problems, and I find great satisfaction in turning these ideas into reality through coding. I believe that programming isn't just a job, it's a passion that drives me to explore and continually develop.
 
 ## 📫 How to Reach Me
 - **Email:** ahmed.mahmoud.shal@gmail.com
