@@ -58,7 +58,13 @@ As a software Developer, I constantly seek new challenges and have a deep passio
 
 <h3 align="center">Thank you for visiting my profile! <br> Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.</h3>
 
+
 <!--
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ## 📈 GitHub Stats
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Shal&show_icons=true&theme=radical)
+[![Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmed-shal&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-shal&show_icons=true&theme=tokyonight) | ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-shal&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shal&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahmed-shal&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 -->
