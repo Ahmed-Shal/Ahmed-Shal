@@ -1,4 +1,4 @@
-<h1 align="center">Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ahmed Shal</h1>
+<h1 align="center">Hello, I'm Ahmed Shal</h1>
 
 - Software Engineer
 - Software Instructor
